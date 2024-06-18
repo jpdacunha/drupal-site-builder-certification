@@ -1,2 +1,2 @@
-# drupal-site-builder-certification
+# Drupal site builder preparation environment
 Environment for Drupal Site Builder certification preparation
