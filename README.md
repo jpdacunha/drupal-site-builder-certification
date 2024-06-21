@@ -15,6 +15,16 @@ Environment for Drupal Site Builder certification preparation using DDEV environ
 
 ### Services
 
-| Service             | Link                        | Description                                               | Credentials
-| --------            | -------                     | -------                                                   | -------  
-| Drupal              | http://drupal.ddev.site     | URL of first app declared has client extension on Liferay | courseadmin / admin
+| Service             | Link                        | Description                                              
+| --------            | -------                     | -------                                                   
+| Drupal              | http://drupal.ddev.site     | URL of first app declared has client extension on Liferay 
+
+
+### Users
+
+| Service             | Credentials
+| --------            | -------  
+| Drupal              | courseadmin / admin 
+| Drupal              | editor / editor 
+
+
